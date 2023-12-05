@@ -11044,3 +11044,15 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+
+.circle {
+  background-color: #aaa;
+  border-radius: 50%;
+  width: 240px;
+  height: 240px;
+  overflow: hidden;
+  position: relative;
+}
+
+
